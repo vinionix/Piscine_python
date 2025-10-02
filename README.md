@@ -35,7 +35,6 @@ cd piscine-python
 Execute os scripts em Python 3:
 
 bash
-Copiar código
 python3 nome_do_script.py
 ```
 ## 📚 Aprendizados principais
