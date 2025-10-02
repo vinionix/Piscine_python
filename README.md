@@ -30,7 +30,7 @@ O objetivo é desenvolver a lógica de programação e os fundamentos da linguag
 ## 🚀 Como executar
 1. Clone o repositório:  
 ```bash
-git clone https://github.com/vinionix/piscine-python.git
+git clone https://github.com/vinionix/Piscine_python.git
 cd piscine-python
 Execute os scripts em Python 3:
 
