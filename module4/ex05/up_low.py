@@ -8,6 +8,8 @@ for i in receiver:
         receiver2 += i.lower();
     elif i.islower():
         receiver2 += i.upper();
+    else:
+        receiver2 += i;
 if receiver2 != "":
     print(receiver2);
 else:
